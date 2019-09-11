@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://waeyeejob.test-designs.com/sitemap.xml
